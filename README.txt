@@ -1,0 +1,1 @@
+The Myro graphics library must be installed for this to work. It should create a face with a frown on running. by uncommenting sections the face can also animate.
